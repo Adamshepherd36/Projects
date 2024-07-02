@@ -1,0 +1,47 @@
+Project Overview
+
+
+Introduction
+In this project, our goal is to predict the loan repayment status of borrowers using a dataset provided by Lending Club. The dataset includes various features about the loans and borrowers, such as loan amounts, interest rates, grades, subgrades, employment information, and other relevant attributes. We aim to identify whether a borrower will fully repay their loan or default (charged off).
+
+Objective
+The primary objective is to build a predictive model that can accurately classify the loan status based on the provided features. This involves several key steps, including data exploration, preprocessing, feature engineering, model building, and evaluation.
+
+Data Exploration and Preprocessing
+
+Exploratory Data Analysis (EDA):
+Distribution of Loan Status: We analyzed the balance between fully paid and charged off loans.
+Distribution of Loan Amount: We visualized the range and common values of loan amounts to understand their distribution.
+
+Correlation Analysis:
+We calculated and visualized the correlation between continuous features to identify strong relationships, focusing on the correlation between loan installment amounts and loan amounts.
+
+Loan Status Analysis:
+We compared the distribution of loan amounts for fully paid and charged off loans using box plots and summary statistics.
+
+Grade and Subgrade Analysis:
+We explored the unique values and distributions in the grade and subgrade columns to understand their impact on loan status.
+
+Feature Engineering:
+We created a new binary column, 'loan_repaid,' to simplify the classification task by indicating whether a loan was fully paid or charged off.
+
+Data Preprocessing:
+We handled missing data by either dropping columns with too many missing values or filling in missing values using relevant features.
+We converted categorical variables into numerical formats using one-hot encoding.
+We split the dataset into training and testing sets and normalized the data to ensure all features are on a similar scale.
+
+
+Model Building and Evaluation
+
+Model Building:
+We defined a sequential neural network using TensorFlow and Keras, with multiple dense and dropout layers to prevent overfitting. The model ends with a single neuron using a sigmoid activation function for binary classification.
+
+Training the Model:
+We trained the model on the training data and validated it on the test data, using binary cross-entropy as the loss function and the Adam optimizer.
+
+Model Evaluation:
+We plotted the training and validation losses to check for overfitting.
+We generated a classification report and a confusion matrix to evaluate the model's precision, recall, and F1-score for both classes, particularly focusing on the minority class (charged off loans).
+We tested the model by making predictions for a new random customer and compared the prediction with the actual loan status.
+
+By following these steps, we aimed to build a robust model that can predict loan repayment statuses effectively, providing valuable insights for lending decisions.
