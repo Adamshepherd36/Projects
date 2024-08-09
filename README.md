@@ -20,6 +20,7 @@ This repository contains a collection of my data analytics projects. Each projec
     - [AirBnB Project](https://github.com/Adamshepherd36/Projects/tree/main/AirBnB%20Project)
     - View All in [Tableau Public](https://public.tableau.com/app/profile/adam.shepherd3708/vizzes)
   - Power BI
+    - [Data Professional Survey Analysis](https://github.com/Adamshepherd36/Projects/tree/main/Data%20Job%20Survey)
   - Excel
     - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Projects/tree/main/Bike%20Sales%20Project)
     - [Financial Performance and Balance Sheet Analysis](https://github.com/Adamshepherd36/Projects/tree/main/Financial%20P%26L%2C%20BS%20Project)
