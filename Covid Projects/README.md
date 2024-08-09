@@ -7,17 +7,15 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 + Tableau Public
 
 ### Live Demo
-+ [view Project Details on Tableau Public](https://public.tableau.com/profile/phonethiriyadana#!/vizhome/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence/Dashboard1)
++ [view Project Details on Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/viz/Covid19_Project_17195776740740/Dashboard1)
 
-![Dashboard on Tableu Public](https://raw.githubusercontent.com/ptyadana/SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png)
+![Dashboard on Tableu Public](https://github.com/Adamshepherd36/Projects/blob/main/Covid%20Projects/Screenshot%202024-08-09%20at%2008.14.31.png)
 
 ## Projects
 **SQL - MySQL for Data Analytics and Business Intelligence**: data analysis and data visualizations for answering business related questions for management including,
-+ What is breakdown between the male and female employees working in the company each year, starting from 1990?
-+ What is the number of male managers to the number of female managers from different departments for each year, starting from 1990?
-+ What is the average salary of female versus male employees in the entire company until year 2002? Need to filter out by departments.
-+ What is the athe average male and female salary per department within a certain salary range?
-
-
-## Challenges
-**SQL - MySQL for Data Analytics and Business Intelligence** : challenges are from [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/) which is an interesting course.
++ What are the global total cases, total deaths, and death percentage due to COVID-19?
++ Which continent has the highest number of total COVID-19 deaths?
++ How does the percentage of the population infected vary across different countries?
++ What is the trend in the average percentage of the population infected over time for various countries?
++ Which countries have the highest average percentage of their population infected by COVID-19?
++ How do actual COVID-19 data and estimates compare for countries like China, India, Mexico, and the United States?
