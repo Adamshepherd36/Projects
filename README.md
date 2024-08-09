@@ -16,7 +16,9 @@ This repository contains a collection of my data analytics projects. Each projec
     - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
   - Tableau
     - [COVID-19](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
-    - View All in [Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
+    - [Emergency Room Visits](https://github.com/Adamshepherd36/Projects/tree/main/Emergency%20Room%20Visits)
+    - [AirBnB Project](https://github.com/Adamshepherd36/Projects/tree/main/AirBnB%20Project)
+    - View All in [Tableau Public](https://public.tableau.com/app/profile/adam.shepherd3708/vizzes)
   - Power BI
   - Excel
     - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Projects/tree/main/Bike%20Sales%20Project)
