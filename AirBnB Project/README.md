@@ -1,4 +1,4 @@
-# SQL - AirBnB Project
+# Tableau - AirBnB Project
 Compilation of SQL - Tableau integration projects for Data Analytics, Business Intelligence and Data Visualizations.
 
 ### Database, Database Tool and Visualization Tool
