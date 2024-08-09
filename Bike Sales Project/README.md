@@ -1,6 +1,6 @@
 # Excel - Bike Sales Project
 
-### Live Demo
+### Downloads:
 + [Download Project Details](https://github.com/Adamshepherd36/Projects/blob/main/Bike%20Sales%20Project/Bike%20Sales%20-%20Project.xlsx)
 
 ![Dashboard on Excel](https://github.com/Adamshepherd36/Projects/blob/main/Bike%20Sales%20Project/Screenshot%202024-08-09%20at%2010.09.59.png)
