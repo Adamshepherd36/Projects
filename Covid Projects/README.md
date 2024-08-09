@@ -6,6 +6,9 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 + MySQL Workbench
 + Tableau Public
 
+### Source Data
++ [Our World in Data] (https://ourworldindata.org/covid-deaths)
+
 ### Live Demo
 + [view Project Details on Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/viz/Covid19_Project_17195776740740/Dashboard1)
 
