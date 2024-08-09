@@ -7,10 +7,10 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 + Tableau Public
 
 ### Source Data
-+ [Our World in Data] (https://ourworldindata.org/covid-deaths)
++ [Our World in Data](https://ourworldindata.org/covid-deaths)
 
 ### Live Demo
-+ [view Project Details on Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/viz/Covid19_Project_17195776740740/Dashboard1)
++ [View Project Details on Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/viz/Covid19_Project_17195776740740/Dashboard1)
 
 ![Dashboard on Tableu Public](https://github.com/Adamshepherd36/Projects/blob/main/Covid%20Projects/Screenshot%202024-08-09%20at%2008.14.31.png)
 
