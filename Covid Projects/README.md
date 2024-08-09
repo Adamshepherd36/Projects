@@ -11,8 +11,8 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 
 ![Dashboard on Tableu Public](https://github.com/Adamshepherd36/Projects/blob/main/Covid%20Projects/Screenshot%202024-08-09%20at%2008.14.31.png)
 
-## Projects
-**SQL - MySQL for Data Analytics and Business Intelligence**: data analysis and data visualizations for answering business related questions for management including,
+## Project Questions
+
 + What are the global total cases, total deaths, and death percentage due to COVID-19?
 + Which continent has the highest number of total COVID-19 deaths?
 + How does the percentage of the population infected vary across different countries?
