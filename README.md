@@ -13,12 +13,14 @@ This repository contains a collection of my data analytics projects. Each projec
     - [K-Means Clustering on College Data](https://github.com/Adamshepherd36/Projects/blob/main/K-Means%20Clustering%20Project.ipynb) 
     - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/Projects/blob/main/K%20Nearest%20Neighbors%20Project.ipynb)   
   - SQL
-    - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Projects/blob/main/Covid%20Project.sql)
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
+    - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
+  - Tableau
+    - [COVID-19](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
+    - View All in [Tableau Public](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
   - Power BI
   - Excel
-    - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Projects/blob/main/Bike%20Sales%20-%20Project.xlsx)
-    - [Financial Performance and Balance Sheet Analysis](https://github.com/Adamshepherd36/Projects/blob/main/Financial%20P%26L%2C%20BS%20Project.xlsx)
+    - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Projects/tree/main/Bike%20Sales%20Project)
+    - [Financial Performance and Balance Sheet Analysis](https://github.com/Adamshepherd36/Projects/tree/main/Financial%20P%26L%2C%20BS%20Project)
 
 
 - [Education](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#education)  
