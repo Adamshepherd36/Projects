@@ -13,7 +13,7 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 + What are the revenue trends for Airbnb rentals over the course of the year?
 + Is there a consistent increase in revenue throughout the year, or are there noticeable fluctuations?
 
-![Dashboard on Tableu Public](https://github.com/Adamshepherd36/Projects/blob/main/AirBnB%20Project/Screenshot%202024-08-09%20at%2009.32.53.png)
+![Dashboard on Tableu Public](https://github.com/Adamshepherd36/Projects/blob/main/AirBnB%20Project/AirBnB%20Tableau%20Screenshot.png)
 
 ## Overview of the Airbnb Pricing and Revenue Analysis Project
 The Airbnb Pricing and Revenue Analysis project was designed to explore and understand key factors that influence the pricing and revenue generation of Airbnb rentals. By analyzing various data points such as the number of bedrooms, geographical location (zip code), and time trends, the project provides insights into how these factors affect the average rental price and overall revenue. The analysis was conducted using Tableau, with visualizations created to clearly communicate the findings.
