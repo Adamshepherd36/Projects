@@ -19,7 +19,7 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 + Which countries have the highest average percentage of their population infected by COVID-19?
 + How do actual COVID-19 data and estimates compare for countries like China, India, Mexico, and the United States?
 
-![Dashboard on Tableu Public](https://github.com/Adamshepherd36/Projects/blob/main/Covid%20Projects/Screenshot%202024-08-09%20at%2008.14.31.png)
+![Dashboard on Tableu Public](https://github.com/Adamshepherd36/Projects/blob/main/Covid%20Projects/Screenshot%202024-08-10%20at%2011.22.57.png)
 
 
 ## Overview of the COVID-19 Global Impact Analysis Project
