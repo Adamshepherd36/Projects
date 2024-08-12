@@ -15,6 +15,7 @@ This repository contains a collection of my data analytics projects. Each projec
     - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/Projects/blob/main/K%20Nearest%20Neighbors%20Project.ipynb)   
   - SQL
     - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
+    - [Health Analytics Dashboard for OCD Patients](https://github.com/Adamshepherd36/Projects/tree/main/Health%20Analytics%20Dashboard%20for%20OCD%20Patients)
   - Tableau
     - [COVID-19](https://github.com/Adamshepherd36/Projects/tree/main/Covid%20Projects)
     - [Emergency Room Visits](https://github.com/Adamshepherd36/Projects/tree/main/Emergency%20Room%20Visits)
@@ -22,9 +23,11 @@ This repository contains a collection of my data analytics projects. Each projec
     - View All in [Tableau Public](https://public.tableau.com/app/profile/adam.shepherd3708/vizzes)
   - Power BI
     - [Data Professional Survey Analysis](https://github.com/Adamshepherd36/Projects/tree/main/Data%20Job%20Survey)
+    - [Health Analytics Dashboard for OCD Patients](https://github.com/Adamshepherd36/Projects/tree/main/Health%20Analytics%20Dashboard%20for%20OCD%20Patients)
   - Excel
     - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Projects/tree/main/Bike%20Sales%20Project)
     - [Financial Performance and Balance Sheet Analysis](https://github.com/Adamshepherd36/Projects/tree/main/Financial%20P%26L%2C%20BS%20Project)
+    - [Health Analytics Dashboard for OCD Patients](https://github.com/Adamshepherd36/Projects/tree/main/Health%20Analytics%20Dashboard%20for%20OCD%20Patients)
 
 
 - [Education](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#education)  
